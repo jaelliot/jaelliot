@@ -1,5 +1,3 @@
-# Welcome to Jay Alexander Elliot's GitHub Profile!
-
 Hi there! I'm Jay, a tech enthusiast interested in Linux, cyber security, and the fascinating world of brain-computer interfaces (BCI). My journey in the tech world is guided by curiosity and a relentless drive to understand how things work at their core.
 
 ## What I'm Up To
