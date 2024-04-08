@@ -3,7 +3,7 @@ Hi there! I'm Jay, a tech enthusiast interested in Linux, cyber security, and th
 ## What I'm Up To
 
 - 🔭 I'm currently bootstrapping my mental health startup's platform. We're building a service that aims to reduce the suicide rate.
-- 🌱 Currently, I'm currently learning Golang, and Nim, and refining my skills in Kubernetes. I'm also developing a game as a personal hobby project.
+- 🌱 Currently, I'm learning Golang and Nim and refining my skills in Kubernetes. I'm also developing a game as a personal hobby project.
 - 💼 I'm looking for opportunities to collaborate on projects related to **BCIs** and **game development**. Right now, BCIs are where personal computers were in the 1980s. I'm eager to jump into this field before the rush.
 - I have a personal interest in the outdoors and fitness.
 
