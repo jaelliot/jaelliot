@@ -2,9 +2,9 @@ Hi there! I'm Jay, a tech enthusiast interested in Linux, cyber security, and th
 
 ## What I'm Up To
 
-- 🔭 I'm currently bootstrapping my mental health startup's platform. We're building a service that aims to reduce the suicide rate.
-- 🌱 Currently, I'm learning Golang and Nim and refining my skills in Kubernetes. I'm also developing a game as a personal hobby project.
-- 💼 I'm looking for opportunities to collaborate on projects related to **BCIs** and **game development**. Right now, BCIs are where personal computers were in the 1980s. I'm eager to jump into this field before the rush.
+- 🔭 **Mental Health Startup**: I'm currently helping a family member bootstrap a platform that provides support and resources for mental health to contribute to suicide prevention. Our mission is to offer accessible help and foster a community where individuals can find the support they need during difficult times.
+- 🌱 **Learning and Development**: I'm diving into Golang and Nim while honing my Kubernetes skills. Additionally, I'm working on a hobby project in game development, combining my passion for coding and creativity.
+- 💼 **BCI and Game Development**: I'm looking for opportunities to collaborate on projects related to brain-computer interfaces and game development. I believe BCIs are at the cutting edge of technology, much like personal computers were in the 1980s, and I'm eager to be a part of this exciting field as it evolves.
 - I have a personal interest in the outdoors and fitness.
 
 ## Let's Connect and Collaborate
@@ -16,6 +16,7 @@ Hi there! I'm Jay, a tech enthusiast interested in Linux, cyber security, and th
 
 - LinkedIn: [Jay Alexander Elliot](https://www.linkedin.com/in/jayalexanderelliot/)
 - GitHub: [@jaelliot](https://github.com/jaelliot)
+- Portfolio Website: [Jay-Alexander Elliot](https://www.jayalexanderelliot.com/)
 - Email: [jay@elliotdevops.com](mailto:jay@elliotdevops.com)
 
 I'm always open to discussing new ideas or providing guidance on tech-related queries.
