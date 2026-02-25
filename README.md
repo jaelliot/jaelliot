@@ -49,7 +49,7 @@ OpenTelemetry · OPA · circuit breakers · chaos drills · CQRS · OTP supervis
 ## Credentials
 
 - **AWS** Solutions Architect – Associate
-- **B.S. Software Engineering** — WGU *(in progress)*
+- **B.S. Software Engineering** — WGU
 
 ---
 
