@@ -1,35 +1,70 @@
 # Jay-Alexander Elliot
 
-I build **resilient, offline-capable systems** across **Go · TypeScript · Elixir**. I’m finishing my B.S. in Software Engineering (WGU) and planning grad school in **Cybersecurity** (institution TBD) and **Engineering Management** (Vanderbilt).
+Senior platform and backend engineer. Ten years in cloud infrastructure, six in production software. I ship reliable systems and own them end to end.
+
+Currently building **[Gideon](https://sakshya.ai)** — a SOC2-compliant multi-agent AI framework for the legal field — and working on distributed backend systems across Go, AWS, and TypeScript.
 
 ---
 
-## What I’m doing now
-- 🚀 **MCP Platform**: Go MCP server with a driver-style plugin system; React/TypeScript frontend refresh; Elixir/OTP services for reliability and fault tolerance.
-- 🧪 **Reliability**: Chaos drills, backoffs/circuit breakers, NATS/JetStream for decoupling, end-to-end tracing (OpenTelemetry).
-- 🎓 **Next up**: MS in Cybersecurity (TBD) + Engineering Management at Vanderbilt.
+## What I'm building
 
-## Tech I use (and like)
-**Languages:** Go, TypeScript (learning Elixir)  
-**Platform:** Docker, Linux  
-**Data:** Postgres (pgvector when needed)  
-**Cloud:** AWS  
-**Practices:** OTP supervision trees, CQRS-ish job pipelines (Oban), IaC, CI/CD
+**[Gideon · sakshya.ai](https://sakshya.ai)**  
+SOC2-compliant multi-agent AI framework. Go MCP server as a custom tool interface; deep-research pipeline; multi-tenant SaaS. Primary market: legal — architecture is flexible enough that other domains are under active evaluation. *(Private — inquire for details)*
 
-## Selected interests
-- Offline-first apps that degrade gracefully
-- Fault-tolerant backends (OTP) talking to Go tools
-- Practical AI/RAG for real workloads (e.g., legal & compliance)
+**[Geckoforge](https://github.com/jaelliot/geckoforge)**  
+Reproducible openSUSE Linux distribution built with KIWI NG + Nix + OPA policies. Four-layer architecture: immutable ISO → first-boot automation → user setup scripts → declarative Home-Manager config. Security-hardened, NVIDIA-ready, full OS rollback via Btrfs + Snapper.
+
+---
+
+## Domain background
+
+Six years in healthcare infrastructure and patient-facing systems. Built and deployed a HIPAA-compliant React mobile app for **Tigo Health** serving ~30,000 patients at a Medicaid-contracted hospital in Southern California. Prior work spans cloud infrastructure, public-sector compliance, and privacy-critical data pipelines on AWS.
+
+---
+
+## Stack
+
+**Languages**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+
+**Cloud & Infrastructure**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+**Data & Messaging**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white)
+
+**Reliability & Observability**  
+OpenTelemetry · OPA · circuit breakers · chaos drills · CQRS · OTP supervision
+
+---
+
+## Credentials
+
+- **AWS** Solutions Architect – Associate
+- **B.S. Software Engineering** — WGU *(in progress)*
+
+---
 
 ## Writing & demos
-- Blog (coming soon; cross-posted to Medium with canonical links)
-- Small, runnable repos + “how it works” notes every two weeks
 
-## Work with me
-- Open to roles or collabs in **platform reliability**, **security-minded backend**, or **Go/Elixir systems**.
-- Short consulting/implementation packages for **offline-ready RAG** or **resilience hardening**.
+Runnable repos with "how it works" writeups on a rolling cadence. Blog coming soon.
+
+---
+
+## Open to
+
+Senior IC roles in **platform engineering**, **DevOps/SRE**, or **reliability-focused backend**. Remote-first, async-friendly teams. I respond to real opportunities.
+
+---
 
 ## Reach me
-- LinkedIn: [Jay Alexander Elliot](https://www.linkedin.com/in/jayalexanderelliot/)
-- GitHub: [@jaelliot](https://github.com/jaelliot)
-- Email: [jay@elliotdevops.com](mailto:jay@elliotdevops.com)
+
+[LinkedIn](https://www.linkedin.com/in/jayalexanderelliot/) · [GitHub](https://github.com/jaelliot) · [jay@elliotdevops.com](mailto:jay@elliotdevops.com) · [sakshya.ai](https://sakshya.ai)
